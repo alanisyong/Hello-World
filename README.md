@@ -1,3 +1,6 @@
+_config.yml 
+name: alanis's site
+title: null
 <!DOCTYPE html>
 <html>
 <head>
