@@ -6,7 +6,6 @@
 body {
   background-image: url("https://images.unsplash.com/photo-1568600891621-50f697b9a1c7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=ronise-daluz-LgTyii0GDKQ-unsplash.jpg");
   background-repeat: no-repeat;
-  background-position: center;
   background-size: auto;
   background-attachment: fixed;
 }
