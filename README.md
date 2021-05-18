@@ -10,7 +10,7 @@ body, html {
 
 .bg {
   /* The image used */
-  background-image: url("img_girl.jpg");
+  background-image: url("https://images.unsplash.com/photo-1568600891621-50f697b9a1c7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=ronise-daluz-LgTyii0GDKQ-unsplash.jpg");
 
   /* Full height */
   height: 100%; 
