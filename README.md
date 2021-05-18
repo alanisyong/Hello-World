@@ -1,46 +1,32 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {
-  background-image: url("https://images.unsplash.com/photo-1568600891621-50f697b9a1c7?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=ronise-daluz-LgTyii0GDKQ-unsplash.jpg");
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("img_girl.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
   background-repeat: no-repeat;
-  background-size: auto;
-  background-attachment: fixed;
+  background-size: cover;
 }
 </style>
 </head>
 <body>
 
-<h1>The background-attachment Property</h1>
+<div class="bg"></div>
 
-<p>The background-attachment property specifies whether the background image should scroll or be fixed (will not scroll with the rest of the page).</p>
-
-<p><strong>Tip:</strong> If you do not see any scrollbars, try to resize the browser window.</p>
-
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
-<p>The background-image is fixed. Try to scroll down the page.</p>
+<p>This example creates a full page background image. Try to resize the browser window to see how it always will cover the full screen (when scrolled to top), and that it scales nicely on all screen sizes.</p>
 
 </body>
 </html>
