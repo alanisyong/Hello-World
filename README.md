@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  //<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 body {
   background-image: url("https://images.unsplash.com/photo-1515516969-d4008cc6241a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=jason-leung-AUAuEgUxg5Q-unsplash.jpg");
