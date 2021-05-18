@@ -5,7 +5,7 @@
 body {
   background-image: url("https://images.unsplash.com/photo-1494859802809-d069c3b71a8a?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=hermes-rivera-Ww8eQWjMJWk-unsplash.jpg");
   background-repeat: no-repeat;
-  background-position: right top;
+  background-position: center;
   margin-right: 100px;
   background-attachment: fixed;
 }
